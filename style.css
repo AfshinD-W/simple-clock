@@ -1,0 +1,14 @@
+body {
+    overflow-x: hidden;
+    background-image: linear-gradient(to right, rgba(255, 0, 0, 0), rgb(0 221 255 / 63%));
+}
+
+.j-clock {
+    text-align: center;
+    font-size: 40px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 100%;
+    text-shadow: 1px 3px 4px #34458d;
+}
